@@ -10,10 +10,15 @@ namespace MelhorRota.Data.Context
 {
     public class DataContext : DbContext
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder options)
+        public DataContext(DbContextOptions<DataContext> options)
+            : base(options)
         {
-            options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=MelhorRota;Trusted_Connection=True;MultipleActiveResultSets=true");
         }
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder options)
+        //{
+        //    options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=MelhorRota;Trusted_Connection=True;MultipleActiveResultSets=true");
+        //}
 
         public DbSet<Aeroporto> Aeroporto { get; set; }
         public DbSet<AeroportoRotas> AeroportoRotas { get; set; }
