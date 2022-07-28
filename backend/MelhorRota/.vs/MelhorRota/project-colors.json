@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b8a4e07-3c5c-4eef-9042-ce050c231c08": {
+      "ProjectGuid": "0b8a4e07-3c5c-4eef-9042-ce050c231c08",
+      "DisplayName": "MelhorRota",
+      "ColorIndex": 0
+    },
+    "f432f430-586b-4d47-92b1-dcc740eaa521": {
+      "ProjectGuid": "f432f430-586b-4d47-92b1-dcc740eaa521",
+      "DisplayName": "MelhorRota.WebApi",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,14 @@
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\bin\Debug\net6.0\MelhorRota.deps.json
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\bin\Debug\net6.0\MelhorRota.runtimeconfig.json
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\bin\Debug\net6.0\MelhorRota.dll
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\bin\Debug\net6.0\ref\MelhorRota.dll
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\bin\Debug\net6.0\MelhorRota.pdb
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\obj\Debug\net6.0\MelhorRota.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\obj\Debug\net6.0\MelhorRota.AssemblyInfoInputs.cache
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\obj\Debug\net6.0\MelhorRota.AssemblyInfo.cs
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\obj\Debug\net6.0\MelhorRota.csproj.CoreCompileInputs.cache
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\obj\Debug\net6.0\MelhorRota.dll
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\obj\Debug\net6.0\ref\MelhorRota.dll
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\obj\Debug\net6.0\MelhorRota.pdb
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\obj\Debug\net6.0\MelhorRota.genruntimeconfig.cache
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota\obj\Debug\net6.0\MelhorRota.csproj.AssemblyReference.cache
