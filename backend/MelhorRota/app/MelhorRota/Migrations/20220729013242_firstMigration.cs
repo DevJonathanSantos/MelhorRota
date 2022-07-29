@@ -2,9 +2,9 @@
 
 #nullable disable
 
-namespace MelhorRota.Data
+namespace MelhorRota.Migrations
 {
-    public partial class FirsMigrtin : Migration
+    public partial class firstMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

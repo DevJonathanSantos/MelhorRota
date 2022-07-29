@@ -17,10 +17,8 @@ builder.Services.AddTransient<IAeroportoService, AeroportoService>();
 builder.Services.AddTransient<IAeroportoRepository, AeroportoRepository>();
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
 
 var app = builder.Build();
 

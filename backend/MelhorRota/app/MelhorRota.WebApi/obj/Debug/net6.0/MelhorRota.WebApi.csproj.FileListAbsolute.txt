@@ -60,3 +60,5 @@ C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota.WebApi\obj\Debug\
 C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota.WebApi\obj\Debug\net6.0\MelhorRota.WebApi.genruntimeconfig.cache
 C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota.WebApi\obj\Debug\net6.0\MelhorRota.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\project\teste-bancomaster\backend\MelhorRota\app\MelhorRota.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

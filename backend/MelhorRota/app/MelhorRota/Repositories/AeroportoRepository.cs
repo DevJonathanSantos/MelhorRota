@@ -18,18 +18,6 @@ namespace MelhorRota.Repositories
         }
         public async Task<List<Aeroporto>> BuscarAeroportos()
         {
-            //_data.AddRange(new List<AeroportoRotas> {
-            //    new AeroportoRotas() { Origem = "GRU",Destino= "BRC",Valor=10},
-            //    new AeroportoRotas() { Origem = "BRC",Destino= "SCL",Valor=5},
-            //    new AeroportoRotas() { Origem = "GRU",Destino= "CDG",Valor=75},
-            //    new AeroportoRotas() { Origem = "GRU",Destino= "SCL",Valor=20},
-            //    new AeroportoRotas() { Origem = "GRU",Destino= "ORL",Valor=56},
-            //    new AeroportoRotas() { Origem = "ORL",Destino= "CDG",Valor=5},
-            //    new AeroportoRotas() { Origem = "SCL",Destino= "ORL",Valor=20}
-            //});
-
-            //await _data.SaveChangesAsync();
-
             var aeroportos = _data.Aeroporto.ToList();
             return aeroportos;
         }

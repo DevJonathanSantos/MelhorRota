@@ -15,18 +15,7 @@ namespace MelhorRota.Data.Context
         {
         }
 
-        //protected override void OnConfiguring(DbContextOptionsBuilder options)
-        //{
-        //    options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=MelhorRota;Trusted_Connection=True;MultipleActiveResultSets=true");
-        //}
-
         public DbSet<Aeroporto> Aeroporto { get; set; }
         public DbSet<AeroportoRotas> AeroportoRotas { get; set; }
-
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Aeroporto>().ToTable("Aeroporto");
-        //    modelBuilder.Entity<AeroportoRotas>().ToTable("AeroportoRotas");
-        //}
     }
 }
